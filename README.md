@@ -6,7 +6,7 @@ Este repositório contém todos os notebooks, códigos e atividades desenvolvido
 
 ## Estrutura de Arquivos
 
-* `Exercícios_Python_[SeuNome][Turma][Período].ipynb`: Notebook desenvolvido no Google Colab contendo a solução individual de 50 exercícios de fixação em Python. O arquivo inclui desde conceitos básicos até manipulação de estruturas de dados e tratamento de exceções, com comentários explicativos para cada solução.
+* `Exercícios_Python_NathanCarvalho_6B_Noturno.ipynb`: Notebook desenvolvido no Google Colab contendo a solução individual de 50 exercícios de fixação em Python. O arquivo inclui desde conceitos básicos até manipulação de estruturas de dados e tratamento de exceções, com comentários explicativos para cada solução.
 
 ## Releases
 
