@@ -14,7 +14,7 @@ Notebook desenvolvido no Google Colab contendo a solução individual de **50 ex
   * **Arquivo GitHub:** [Exercícios_Python_NathanCarvalho_6B_Noturno.ipynb](Exercícios_Python_NathanCarvalho_6B_Noturno.ipynb)
   * **Link do Colab:** [Abrir no Google Colab](https://colab.research.google.com/drive/1RYubUzWtKtlPShJ1gQ_JNKxqMJpU_AzY?usp=sharing)
 
-### 2. `Exercícios_DataScience_NathanCarvalho_6B_Noturno.ipynb`
+### 2. `Exercícios_Python_Ciencia_de_dados.ipynb`
 Notebook desenvolvido no Google Colab contendo a resolução integral de **80 exercícios práticos** voltados à computação científica, álgebra linear, análise de dados e visualização gráfica para Inteligência Artificial, divididos em 4 módulos fundamentais:
 * **NumPy (20 exercícios):** Manipulação de matrizes e vetores multidimensionais, fatiamento, remodelagem (`reshape`), cálculos estatísticos e álgebra linear.
 * **SciPy (20 exercícios):** Computação científica aplicada, integrais numéricas (simples e duplas), equações diferenciais ordinárias (EDOs), otimização, interpolações e Transformadas de Fourier (FFT).
