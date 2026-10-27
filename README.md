@@ -29,21 +29,25 @@ Avaliação do dataset Iris com SVM no Kaggle. Utilizando o dataset Iris forneci
 _Setosa_, _Versicolor_, _Virginica_.
 * **Acesse aqui:**
   * Arquivo GitHub: [Dataset Iris SVM](Dataset_Iris_SVM.ipynb)
+  * **Link do Colab:** [Abrir no Kaggle](https://www.kaggle.com/code/nathancarvalho125/dataset-iris-svm)
 
 ### 4. `Nathan_Carvalho_relatorio`
 Relatório técnico desenvolvido para a disciplina. O objetivo deste trabalho é desenvolver um modelo capaz de prever o preço de imóveis a partir das características presentes no banco de dados.
 * **Acesse aqui:**
   * Arquivo GitHub: [Nathan_Carvalho_relatorio](Nathan_Carvalho_Relatorio.ipynb)
+  * **Link do Colab:** [Abrir no Kaggle](https://www.kaggle.com/code/nathancarvalho125/nathan-carvalho-relatorio)
 
 ### 5. `Atividade dataset Iris`
 O objetivo desta atividade é rodar os modelos de SVM, Árvore de Decisão, Floresta Aleatória e Boosting para o dataset IRIS. A análise consiste em verificar qual dos modelos apresenta melhor sensibilidade e acurácia, executando os modelos com e sem o uso de GridSearchCV.
 * **Acesse aqui:**
   * Arquivo GitHub: [Atividade dataset Iris](Atividade_dataset_Iris.ipynb)
+  * **Link do Colab:** [Abrir no Kaggle](https://www.kaggle.com/code/nathancarvalho125/atividade-dataset-iris)
 
 ### 6. Fishmorph_Dataset.ipynb
-Notebook focado na classificação taxonômica de peixes de água doce utilizando o dataset Fishmorph. O projeto abrange a importação dos dados morfológicos (10 características), tratamento de classes (filtragem para manter apenas famílias taxonômicas com 10 ou mais registros) e a aplicação de técnicas avançadas de Machine Learning. Foi desenvolvido um `Pipeline` integrando padronização de dados (`StandardScaler`) e um classificador SVM (`SVC`), além da otimização de hiperparâmetros (C, gamma e kernel) utilizando validação cruzada com `GridSearchCV`. O modelo final alcançou uma acurácia de 68,62% na classificação de 90 famílias diferentes.* 
-**Acesse aqui:**
+Notebook focado na classificação taxonômica de peixes de água doce utilizando o dataset Fishmorph. O projeto abrange a importação dos dados morfológicos (10 características), tratamento de classes (filtragem para manter apenas famílias taxonômicas com 10 ou mais registros) e a aplicação de técnicas avançadas de Machine Learning. Foi desenvolvido um `Pipeline` integrando padronização de dados (`StandardScaler`) e um classificador SVM (`SVC`), além da otimização de hiperparâmetros (C, gamma e kernel) utilizando validação cruzada com `GridSearchCV`. O modelo final alcançou uma acurácia de 68,62% na classificação de 90 famílias diferentes.
+* **Acesse aqui:**
   * Arquivo GitHub: [Fishmorph_Dataset.ipynb](Fishmorph_Dataset.ipynb)
+  * **Link do Colab:** [Abrir no Google Colab](https://colab.research.google.com/drive/1JU-8IZkwCSgwnMqH2FG_rxX5J-iz3-NN?usp=sharing)
 
 ---
 
