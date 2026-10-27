@@ -28,22 +28,22 @@ Notebook desenvolvido no Google Colab contendo a resolução integral de **80 ex
 Avaliação do dataset Iris com SVM no Kaggle. Utilizando o dataset Iris fornecido pelo Professor, é realizada uma análise exploratória dos dados e, em seguida, o desenvolvimento de um modelo de classificação utilizando o algoritmo Support Vector Machine (SVM) para identificar 3 espécies de flores, sendo elas:
 _Setosa_, _Versicolor_, _Virginica_.
 * **Acesse aqui:**
-  * Arquivo GitHub: [Dataset Iris SVM](https://github.com/NathanCarvalhoo/Inteligencia-Artificial/blob/main/Dataset%20Iris%20SVM)
+  * Arquivo GitHub: [Dataset Iris SVM](Dataset_Iris_SVM.ipynb)
 
 ### 4. `Nathan_Carvalho_relatorio`
 Relatório técnico desenvolvido para a disciplina. O objetivo deste trabalho é desenvolver um modelo capaz de prever o preço de imóveis a partir das características presentes no banco de dados.
 * **Acesse aqui:**
-  * Arquivo GitHub: [Nathan_Carvalho_relatorio](https://github.com/NathanCarvalhoo/Inteligencia-Artificial/blob/main/Nathan_Carvalho_relatorio)
+  * Arquivo GitHub: [Nathan_Carvalho_relatorio](Nathan_Carvalho_Relatorio.ipynb)
 
 ### 5. `Atividade dataset Iris`
 O objetivo desta atividade é rodar os modelos de SVM, Árvore de Decisão, Floresta Aleatória e Boosting para o dataset IRIS. A análise consiste em verificar qual dos modelos apresenta melhor sensibilidade e acurácia, executando os modelos com e sem o uso de GridSearchCV.
 * **Acesse aqui:**
-  * Arquivo GitHub: [Atividade dataset Iris](https://github.com/NathanCarvalhoo/Inteligencia-Artificial/blob/main/Atividade%20dataset%20Iris)
+  * Arquivo GitHub: [Atividade dataset Iris](Atividade_dataset_Iris.ipynb)
 
 ### 6. Fishmorph_Dataset.ipynb
 Notebook focado na classificação taxonômica de peixes de água doce utilizando o dataset Fishmorph. O projeto abrange a importação dos dados morfológicos (10 características), tratamento de classes (filtragem para manter apenas famílias taxonômicas com 10 ou mais registros) e a aplicação de técnicas avançadas de Machine Learning. Foi desenvolvido um `Pipeline` integrando padronização de dados (`StandardScaler`) e um classificador SVM (`SVC`), além da otimização de hiperparâmetros (C, gamma e kernel) utilizando validação cruzada com `GridSearchCV`. O modelo final alcançou uma acurácia de 68,62% na classificação de 90 famílias diferentes.* 
 **Acesse aqui:**
-  * Arquivo GitHub: [Fishmorph_Dataset.ipynb](https://github.com/NathanCarvalhoo/Inteligencia-Artificial/blob/main/Fishmorph_Dataset.ipynb)
+  * Arquivo GitHub: [Fishmorph_Dataset.ipynb](Fishmorph_Dataset.ipynb)
 
 ---
 
